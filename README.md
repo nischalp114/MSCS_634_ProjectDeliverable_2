@@ -1,9 +1,15 @@
 Deliverable 2: Regression Modeling and Performance Evaluation
+
+
 GROUP MEMBERS:
 Name: Nischal Pokharel
+
 Name: Swarna Anjani Devershetty
+
 Name: Vishnu Mallam
+
 Name: Tejeswar Reddy Chemikala
+
 Name: Shyam Nath
 
 Dataset Summary
